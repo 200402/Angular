@@ -26,6 +26,7 @@ Obj/
 
 # Visual Studio 2015 cache/options directory
 .vs/
+cache/
 
 # MSTest test Results
 [Tt]est[Rr]esult*/
@@ -45,6 +46,7 @@ dlldata.c
 *_i.h
 *.ilk
 *.meta
+*.pack
 *.obj
 *.pch
 *.pdb

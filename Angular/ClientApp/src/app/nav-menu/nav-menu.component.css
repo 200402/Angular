@@ -4,9 +4,25 @@ a.navbar-brand {
   word-break: break-all;
 }
 
+.points-distance ul li {
+  display: inline-block;
+  width: 200px;
+  font-size: 20px;
+}
+
+.a-text-center a {
+  text-align: center;
+}
+
+.hover-color a:hover {
+  background: #786b59;
+  color: #ffe;
+} 
+
 html {
   font-size: 14px;
 }
+
 @media (min-width: 768px) {
   html {
     font-size: 16px;
